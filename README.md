@@ -31,9 +31,9 @@ from SmartApi import SmartConnect #or from SmartApi.smartConnect import SmartCon
 import pyotp
 from logzero import logger
 
-api_key = 'Your Api Key'
-username = 'Your client code'
-pwd = 'Your pin'
+api_key = 'Welceyae'
+username = 'J203784'
+pwd = '7825'
 smartApi = SmartConnect(api_key)
 try:
     token = "Your QR value"
